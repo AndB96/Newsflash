@@ -1,2 +1,2 @@
-# Newsflash
+# Examinerande uppgift
 Uppgift 1
